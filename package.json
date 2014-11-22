@@ -1,0 +1,19 @@
+{
+  "name": "overreact",
+  "version": "0.0.0",
+  "description": "A lib built on React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ruzz311@github.com/ruzz311/overreact.git"
+  },
+  "author": "Russell Madsen (github.com/ruzz311)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruzz311/overreact/issues"
+  },
+  "homepage": "https://github.com/ruzz311/overreact"
+}
